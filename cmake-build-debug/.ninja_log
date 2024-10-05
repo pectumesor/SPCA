@@ -1,0 +1,4 @@
+# ninja log v6
+0	28	1728142291202218735	CMakeFiles/SPCA.dir/main.c.o	31cbb9a9d2e31506
+28	58	1728142291230189036	SPCA	4f3035b41f1ea1d6
+0	28	1728142233712091395	CMakeFiles/SPCA.dir/BST/binary_search_tree.c.o	bc9ad5c1b150a88f

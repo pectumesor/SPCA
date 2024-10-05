@@ -1,0 +1,3 @@
+/Users/emers/CLionProjects/SPCA/cmake-build-debug/CMakeFiles/SPCA.dir
+/Users/emers/CLionProjects/SPCA/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emers/CLionProjects/SPCA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
